@@ -1,2 +1,2 @@
-# Password Toggler
+# Toggle Password
  
